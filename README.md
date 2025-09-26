@@ -4,7 +4,7 @@ Materials for Tutorial Hands-On with EO: Creating Indicators and Stories from Op
 ## Workspace
 Every participant of the workshop can access the prepared workspace for the tutorial on [https://workspace.eodashboardtutorial.hub-otc-sc.eox.at/](https://workspace.eodashboardtutorial.hub-otc-sc.eox.at/)
 
-Access to the workspace will be additionally available until 17.10.2025 - even after the tutorial end for the attendees to be able to rerun the workflow and browse the platform.
+Access to the workspace will be additionally available until 10.10.2025 - even after the tutorial end for the attendees to be able to rerun the workflow and browse the platform with limited resources.
 
 ## Materials
 Collection of materials used for BiDS 2025 EODashboard tutorial:
